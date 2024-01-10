@@ -7,3 +7,5 @@
 
 ### Files
 - etl_pandas.ipynb: to perform ETL on the dataset using Python Pandas
+- ml_training.py: to train a ML model to predict the probability of default
+- oos_evaluate.ipynb: to evaluate the trained model with the out-of-sample loan data by ROI and ROC AUC.
